@@ -1,2 +1,4 @@
 # elementary-electron
-Elementary-electron workshop
+
+## Elementary-electron workshop
+https://github.com/maxogden/elementary-electron
