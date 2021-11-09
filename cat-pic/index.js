@@ -40,5 +40,5 @@ function save () {
 
 window.addEventListener('keydown', function (e) {
   //workshop uses deprecated keyCode
-  if(e.key === 'p') save()
+  if(e.code === 'KeyP') save()
 });
